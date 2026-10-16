@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Flow AI",
+  "description": "Automated wallpaper discovery, AI generation, curation, and scheduled background wallpaper changes for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
