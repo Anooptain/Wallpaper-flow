@@ -32,7 +32,8 @@ A smart Android wallpaper app that automatically changes your wallpaper based on
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/Anooptain/Wallpaper-flow/releases/)
+    height="80">](https://github.com/Anooptain/Wallpaper-flow/releases/latest)
+    
 ## Built With
 
 - Kotlin
